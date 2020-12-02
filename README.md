@@ -21,7 +21,7 @@ You can configure the authentication type, the authentication of multiple users,
 
 ### Basic WebDAV server
 
-This example starts a WebDAV server on port 80. It can only be accessed with a single username and password.
+This example starts a WebDAV server on port 80. It can only be accessed with a single username and password..
 
 When using unencrypted HTTP, use `Digest` authentication (instead of `Basic`) to avoid sending plaintext passwords in the clear.
 
